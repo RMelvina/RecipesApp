@@ -1,0 +1,56 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#FB8C00</item>
+        <item name="colorPrimaryDark">#000000</item>
+        <item name="colorAccent">#FB8C00</item>
+    </style>
+
+
+    <style name="theme_1" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#FB8C00</item>
+        <item name="colorPrimaryDark">#FB8C00</item>
+        <item name="colorAccent">#FB8C00</item>
+        <item  name="android:textSize">60sp</item>
+
+    </style>
+
+    <style name="TextView1">
+        <item  name="android:textColor">#E65100</item>
+        <item  name="android:textStyle">bold</item>
+        <item  name="android:textSize">30sp</item>
+        <item name="android:fontFamily">serif-monospace"</item>
+        <item name="android:layout_marginLeft">100dp</item>
+    </style>
+
+    <style name="bf_theme">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#FB8C00</item>
+
+
+
+    </style>
+
+    <style name="AppTheme.slider">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+
+    </style>
+
+
+    <style name="styleRecipeTitles">
+        <item  name="android:textColor">#E65100</item>
+        <item  name="android:textStyle">bold</item>
+        <item  name="android:textSize">30sp</item>
+        <item name="android:fontFamily">serif-monospace"</item>
+
+    </style>
+
+
+
+
+
+</resources>

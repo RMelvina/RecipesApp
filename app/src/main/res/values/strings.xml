@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RecipesApp</string>
+
+    <string name="breakfastRecipe_1">
+        6 eggs,
+        \n½ small onion,
+        \n 2 rashers lean bacon,
+        \nchopped,420g can Wattie’s Baked Beans,
+        \n Handful fresh parsley leaves,
+        \nchopped,6 snack wraps
+
+    </string>
+
+
+</resources>

@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+        <string-array name="breakfast_recipe_titles" >
+
+            <item>Breakfast Tortilla with Baked Beans</item>
+            <item>Hawaiian Spaghetti Pockets</item>
+            <item>Hawaiian Savoury mince on toast</item>
+            <item>French Toast</item>
+            <item>Self-Crusting Quiche with Tomato Chutney</item>
+            <item>Beans over Hash Browns with Egg</item>
+            <item>Peach Pancakes</item>
+            <item>Easy Bacon and Egg Slice</item>
+            <item>Spaghetti and Egg Pies</item>
+            <item>Maple and Orange Crêpes</item>
+        </string-array>
+
+
+------------------BREAKFAST RECIPES---------------------
+
+        <string-array name="breakfast_ing" >
+ ------------------INGREDIENTS---------------------
+ ------------------RECIPE 1---------------------
+
+            <item>
+               \n\n6 eggs,
+               \n\n½ small onion,
+               \n\n2 rashers lean bacon,chopped
+               \n\n420g can Wattie\s Baked Beans,
+               \n\nHandful fresh parsley leaves,chopped
+               \n\n6 snack wraps
+
+            </item>
+            ------------------RECIPE 2---------------------
+
+            <item>
+               \n\n420g can Wattie\s Spaghetti 50% Less Added Sugar*,
+               \n\n1 spring onion, chopped,
+               \n\n½ small red capsicum, chopped (optional),
+               \n\n 20g can Wattie\s Baked Beans,
+               \n\n¼ cup unsweetened crushed pineapple, well drained,
+               \n\n1 cup grated noble cheese – or low fat cheese
+               \n\n8 x 20cm diameter flour tortillas
+
+            </item>
+            ------------------RECIPE 3 ---------------------
+
+            <item>
+               \n\n1 onion, diced
+               \n\n1 clove garlic, crushed
+               \n\n500g lean beef mince
+               \n\n1 Tbsp Lea and Perrins Worcestershire Sauce
+               \n\n¼ cup Wattie\s Tomato Sauce
+               \n\n1 Tbsp cornflour
+               \n\n2 cups Wattie\s Frozen Mixed Vegetable
+            </item>
+            ------------------RECIPE 4---------------------
+
+            <item>
+                \n\n2 eggs
+                \n\n2 cups milk
+                \n\n1 tsp vanilla essence
+                \n\n1 Tbsp sugar
+                \n\n½ French loaf, sliced on an angle
+                \n\n4 rashers bacon
+                \n\n2 bananas, sliced
+                \n\nCottee\s Maple Flavoured Syrup
+            </item>
+            ------------------RECIPE 5---------------------
+
+
+
+            <item>
+               \n\n4 eggs
+               \n\n1 ½ cup milk
+               \n\n½ cup self-raising flour
+               \n\n3 cups Wattie\s Frozen Vegetables
+               \n\n1 cup grated Edam cheese
+               \n\n½ cup diced ham (optional)
+               \n\n1 spring onion, finely sliced
+
+               \n\nTomato Chutney:
+               \n\n400g can Wattie\s Italian-style Tomatoes
+               \n\n1 spring onion, finely sliced
+               \n\n8 black olives, sliced
+               \n\n1 tsp capers (optional)
+            </item>
+            ------------------RECIPE 6---------------------
+            ----------Beans over Hash Browns with Egg----------
+            <item>
+               \n\n400g Wattie\s Salsa Chilli Beans Medium
+            </item>
+            ------------------RECIPE 7 ---------------------
+            ----------Peach Pancakes----------
+            <item>
+            \n\n1½ cups flour
+            \n\n1 Tbsp baking powder
+            \n\n3 Tbsp sugar
+            \n\n1 cup milk
+            \n\n2 eggs
+            \n\n2 tsp vegetable oil
+            \n\n410g can Wattie\s Peaches Sliced in Clear Fruit Juice
+            \n\nCottee\s Maple Flavoured Syrup
+            </item>
+            ------------------RECIPE 8---------------------
+            <item>
+            \n\n2 sheets ready rolled savory short pastry
+            \n\n½ cup Wattie\s Tomato Sauce 50% Less Sugar
+            \n\n6 rashers streaky bacon
+            \n\n6 eggs
+            </item>
+            ------------------RECIPE 9---------------------
+            <item>
+               \n\n3 sheets frozen flaky puff pastry
+               \n\n2 rashers bacon, chopped (optional)
+               \n\n½ cup grated tasty cheese (optional)
+               \n\n420 g can Wattie\s Spaghetti
+               \n\n6 eggs
+            </item>
+            ------------------RECIPE 10---------------------
+            <item>
+            \n\n1 cup flour
+            \n\n2 eggs
+            \n\n300 ml milk
+            \n\nMaple and Orange Sauce
+            \n\n½ cup Cottee\s Maple Flavoured Syrup
+            \n\n25 g butter
+            \n\ngrated zest of 1 orange
+            \n\n½ cup orange juice
+            \n\n2 Tbsp brandy (optional)
+            </item>
+
+
+        </string-array>
+
+
+
+    ------------------DINNER RECIPES---------------------
+
+
+
+<string-array name="dinner_recipe_titles" >
+
+<item>Meatballs</item>
+<item>Mustard Chickens</item>
+<item>Mexican Nacho Bowls</item>
+<item>Creamy Mushroom Chicken Fettuccine</item>
+<item>Honey Mustard Chicken Pie</item>
+<item>Creamy Mushroom and Chicken Stroganoff</item>
+<item>Classic Nachos</item>
+<item>Honey Mustard Chicken Potato Bake</item>
+<item>Easy Bacon Wrapped Chicken</item>
+<item>Chicken Pea Risotto</item>
+</string-array>
+
+    <string-array name="dinner_ing" >
+------------------INGREDIENTS---------------------
+-----------------RECIPE 1---------------------
+        <item>
+                \n\n500g lean beef mince
+                \n\n¼ cup freshly chopped parsley
+                \n\n½ cup grated carrot
+                \n\n½ cup uncooked long grain rice
+                \n\n1 onion, chopped
+                \n\n2 sticks celery, chopped
+                \n\n1 Tbsp Wattie\s Tomato Paste
+                \n\n500g jar HEINZ [SERIOUSLY] GOOD™ Beef Casserole Simmer Sauce
+                \n\n½ cup water
+                \n\n1 bay leaf (optional)
+
+            </item>
+        -----------------RECIPE 2---------------------
+        <item>
+                \n\n1 small onion, chopped
+                \n\n2 sticks celery, chopped
+                \n\n1 clove garlic, finely chopped
+                \n\n500g skinless chicken breast, cut into 2cm pieces
+                \n\n4 rashers thick sliced bacon, cut into bite sized pieces
+                \n\n500g jar HEINZ [SERIOUSLY] GOOD™ Honey Mustard Simmer Sauce
+                \n\nHandful fresh parsley leaves, chopped
+
+            </item>
+        -----------------RECIPE 3---------------------
+        <item>
+             \n\n12 soft Taco tortillas
+
+             \n\n1 small onion, chopped
+             \n\n1 clove garlic, crushed
+             \n\n300g lean beef mince
+             \n\n500g jar HEINZ [SERIOUSLY] GOOD™ Spicy Nachos Simmer Sauce
+             \n\n400g can Wattie\s Black Beans in Springwater, drained
+
+                \n\nCorn and Tomato Salsa:
+                \n\n1 cup frozen whole kernel corn
+                \n\n2 medium tomatoes, diced
+                \n\n½ small red capsicum, deseeded and diced
+                \n\n½ small red chilli, deseeded and finely chopped
+                \n\n1 spring onion, chopped
+                \n\nHandful fresh coriander leaves, chopped
+                \n\nJuice from 1 lime or to taste
+
+
+                \n\nTo Assemble:
+                \n\n1-2 cup shredded iceburg lettuce
+                \n\n1-2 avocados, peeled and sliced
+                \n\n1 ½ cup grated cheese
+
+            </item>
+        -----------------RECIPE 4---------------------
+        <item>
+                \n\n400g chicken tenderlions, cut to even strips
+                \n\n1 leek, sliced
+                \n\n100g mushrooms, sliced
+                \n\n500g jar HEINZ [SERIOUSLY] GOOD™ Creamy Mushroom Simmer Sauce
+                \n\n1 tsp chopped fresh thyme (or 1/2 tsp dried)
+                \n\n200g dried fettuccine pasta
+                \n\nHandful fresh parsley leaves, chopped
+                \n\nGrated Parmesan cheese to garnish
+            </item>
+        -----------------RECIPE 5---------------------
+        <item>
+            \n\n500g chicken thigh fillets, skinless, cut into 1cm pieces
+            \n\n500g jar HEINZ [SERIOUSLY] GOOD™ Honey Mustard Simmer Sauce
+            \n\n1 sheet ready rolled puff pastry
+            \n\n1 egg, beaten
+            \n\n2 tsp sesame seeds (optional)
+            </item>
+        -----------------RECIPE 6---------------------
+        <item>
+               \n\n500g chicken breast fillets, sliced into thin stir-fry strips
+               \n\n500g jar HEINZ [SERIOUSLY] GOOD™ Creamy Mushroom Simmer Sauce
+               \n\nChopped parsley to garnish
+            </item>
+        -----------------RECIPE 7---------------------
+        <item>
+               \n\n400g lean beef mince
+               \n\n525g jar HEINZ [SERIOUSLY] GOOD™ Spicy Nachos Simmer Sauce
+               \n\n400g can Wattie\s Red Kidney Beans in Springwater, well drained
+               \n\n150g pkt corn chips
+               \n\n½ cup grated cheese
+
+            </item>
+        -----------------RECIPE 8---------------------
+        <item>
+            \n\n500g skinless chicken thigh fillets
+            \n\n1 Tbsp olive oil
+            \n\n1 leek, washed and sliced
+            \n\n½ cup dry white wine
+            \n\n500g jar HEINZ [SERIOUSLY] GOOD™ Honey Mustard Simmer Sauce
+            \n\n400g red potatoes, thinly sliced
+            </item>
+        -----------------RECIPE 9---------------------
+        <item>
+               \n\n  x 125g skinless, boneless chicken breast fillets
+               \n\n2 rashers streaky bacon
+               \n\n235g steam tray Wattie\s SteamFresh Vege Plus Cauliflower with Cheese Sauce
+               \n\nChopped parsley to garnish
+            </item>
+        -----------------RECIPE 10---------------------
+        <item>
+            \n\n3 ½ cups reduced salt chicken stock
+            \n\n400g chicken thigh fillets, skinless
+            \n\n1 medium onion, chopped
+            \n\n1-2 garlic cloves, crushed
+            \n\n1 ½ cup Arnorio or risotto rice
+            \n\n½ cup dry white wine
+            \n\n1 ½ cup Wattie’s Frozen Baby Peas
+            \n\n30g grated Parmesan Cheese
+            \n\nHandful fresh parsley leaves, chopped
+            </item>
+
+
+    </string-array>
+
+
+    <string-array name="dessert_recipe_titles" >
+
+        <item>Bread and Butter Pudding</item>
+        <item>Feijoa Bran Muffins</item>
+        <item>Feijoa and Banana Loafitem</item>
+        <item>Melissa Jones' Boysenberry Tart</item>
+        <item>Trifle</item>
+        <item>Steamed Pudding</item>
+        <item>Lamingtons</item>
+        <item>Belgium Biscuits</item>
+        <item>Meringues</item>
+        <item>Plum and Chocolate Self Saucing Pudding</item>
+    </string-array>
+
+    <string-array name="dessert_ing" >
+        ------------------INGREDIENTS---------------------
+        -----------------RECIPE 1---------------------
+        <item>
+            \n\n7-8 slices bread
+            \n\n50g butter, softened
+            \n\n5 eggs
+            \n\n½ cup caster sugar
+            \n\n1-2 tsp finely grated orange rind
+            \n\n1 cup cream
+            \n\n1 ½ cup milk
+
+            </item>
+        -----------------RECIPE 2---------------------
+        <item>
+                \n\n2 cups wheat baking bran
+                \n\n1 cup wholemeal flour
+                \n\n1 cup flour
+                \n\n3 tsp baking powder
+                \n\n1 tsp Gregg\s Ground Cinnamon
+                \n\n½ cup soft brown sugar
+                \n\n100g butter
+                \n\n3 Tbsp golden syrup
+                \n\n1 ¼ cup milk
+                \n\n2 eggs
+                \n\n1 ½ tsp baking soda
+                \n\n1 ½ cup peeled and chopped ripe feijoas (about 4-5 feijoas)
+
+            </item>
+        -----------------RECIPE 3---------------------
+        <item>
+                \n\n2 cups flour
+                \n\n1 tsp baking powder
+                \n\n1 tsp baking soda
+                \n\n1 tsp Gregg\s Mixed Spice
+                \n\n1 cup raw sugar
+                \n\n¾ cup vegetable oil
+                \n\n1 egg
+                \n\n1 cup mashed ripe bananas (about 2 large bananas)
+                \n\n1 cup chopped ripe feijoas (about 3-4 feijoas)
+        </item>
+        -----------------RECIPE 4---------------------
+        <item>
+            \n\n425g can Wattie\s Boysenberries in Syrup
+            \n\n1½ cup flour
+            \n\n½tsp baking powder
+            \n\n½cup coconut
+            \n\n¾cup caster sugar
+            \n\n200g butter
+
+        </item>
+
+
+        -----------------RECIPE 5---------------------
+        <item>
+             \n\n1 Tbsp sugar
+             \n\n4 Tbsp custard powder
+             \n\n2 cups milk
+             \n\n2 small or 1 large trifle sponge
+             \n\n2 Tbsp sherry (optional)
+             \n\n820g can or 2 x 410g cans Wattie\s Fruit Salad in Clear Fruit Juice
+             \n\n300mL cream
+             \n\n½ tsp vanilla essence
+             \n\n1 Tbsp icing sugar
+             \n\nStrawberries to decorate
+
+        </item>
+        -----------------RECIPE 6---------------------
+        <item>
+            \n\n50g butter, softened
+            \n\n¼ cup sugar
+            \n\n1 egg
+            \n\nGrated rind of 1 lemon
+            \n\n1 cup self-raising flour, sifted
+            \n\n1 cup milk
+            \n\n4-6 tbsp Craig's Black Doris Plum Jam
+        </item>
+        -----------------RECIPE 7---------------------
+        <item>
+               \n\n225g pre-made sponge cake
+
+                \n\nChocolate Lamingtons:
+                \n\n1 cup icing sugar
+                \n\n¼ cup cocoa
+                \n\n1 cup coconut
+
+                \n\nPink Lamingtons:
+                \n\n85g pkt raspberry jelly crystals
+                \n\n1 cup boiling water
+                \n\n1 cup coconut
+
+            </item>
+        -----------------RECIPE 8---------------------
+        <item>
+            \n\n50g butter, softened
+            \n\n¾ cup soft brown sugar
+            \n\n1 egg, beaten
+            \n\n2 cups flour
+            \n\n1 tsp baking powder
+            \n\n1 tsp cinnamon
+            \n\n1 tsp mixed spice
+            \n\n1 tsp cocoa
+
+            \n\nPink Icing:
+            \n\n1 cup icing sugar, sifted
+            \n\n1-2 drops red food colouring
+            \n\n10 glacé cherries, halved
+            \n\n¼ cup Craig\s Raspberry Jam
+            </item>
+        -----------------RECIPE 9---------------------
+        <item>
+            \n\n2 egg whites
+            \n\n1 cup caster sugar
+            \n\n½ tsp vanilla essence
+            \n\n1 tsp vinegar
+            \n\n2 Tbsp boiling water
+            \n\nWhipped cream
+            </item>
+        -----------------RECIPE 10---------------------
+        <item>
+            \n\n2 Tbsp cocoa
+            \n\n½ cup sugar
+            \n\n850g can Wattie\s Black Doris Plums in Syrup
+            \n\n1 ½ cup flour
+            \n\n2 ½ tsp baking powder
+            \n\n¼ cup cocoa
+            \n\n½ cup soft brown sugar
+            \n\n1 egg
+            \n\n¾ cup milk
+            \n\n100g butter, melted
+            </item>
+
+
+    </string-array>
+
+
+
+
+
+
+</resources>

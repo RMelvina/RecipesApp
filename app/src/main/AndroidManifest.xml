@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.melvina.recipesapp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/recipes"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".Activity.OpeningActivity"
+            android:theme="@style/Theme.AppCompat.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Activity.CategoriesActivity"
+            android:label="Categories" />
+        <activity
+            android:name=".Details.BreakfastDetailsActivity"
+            android:label="Ingredients"
+            android:theme="@style/AppTheme.slider"/>
+        <activity
+            android:name=".Activity.BreakfastActivity"
+            android:label="Breakfast Recipes"
+            android:theme="@style/AppTheme.slider"/>
+        <activity
+            android:name=".Activity.DinnerActivity"
+            android:label="Dinner Recipes"
+            android:theme="@style/AppTheme.slider"/>
+        <activity
+            android:name=".Details.DinnerDetailsActivity"
+            android:label="Ingredients"
+            android:theme="@style/AppTheme.slider"/>
+        <activity
+            android:name=".Activity.DessertActivity"
+            android:label="Dessert Recipes"
+            android:theme="@style/AppTheme.slider"/>
+        <activity
+            android:name=".Details.DessertDetailsActivity"
+            android:label="Ingredients"
+            android:theme="@style/AppTheme.slider"/>
+    </application>
+
+</manifest>
